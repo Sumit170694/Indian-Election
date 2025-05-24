@@ -1,7 +1,7 @@
 
 # 🗳️ Indian General Elections Dashboard (2014–2024) – Power BI Project
 
-![Power BI Dashboard](./A_Power_BI_Project_Showcase_graphic_displays_an_In.png)
+![Power BI Dashboard](./election result.png)
 
 ## 📊 Project Overview
 This Power BI project presents a comprehensive visual analysis of the **Indian General Elections** held in 2014, 2019, and 2024. It compares party-wise seat distributions, vote shares, and voting margins across years, using real election data.
